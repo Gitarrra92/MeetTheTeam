@@ -1,6 +1,6 @@
 
 
-# My test App
+# Meet the team
 
 ## Installation
 
